@@ -1,0 +1,6 @@
+name = "slack-bot"
+type = "webpack"
+account_id = "eccc95dafcb081ad65e52248eca1939c"
+workers_dev = true
+route = ""
+zone_id = ""
